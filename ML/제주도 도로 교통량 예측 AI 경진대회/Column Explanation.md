@@ -1,6 +1,4 @@
-# Data Preprocessing & EDA
-
-**FEATURE OVERVIEW**
+# FEATURE OVERVIEW & INSIGHTS
 
 - id : 아이디 -> **drop**
 
